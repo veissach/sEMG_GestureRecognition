@@ -6,6 +6,7 @@ is achieved by recording EMG sequences using the Myo armband, which is then clas
 a CNN into the different Poses performed.
 
 The following are the poses performed by the subjects:
+
 Class - Pose:
 0 - unmarked data,
 1 - hand at rest, 
