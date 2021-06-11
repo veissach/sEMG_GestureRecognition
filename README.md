@@ -1,7 +1,10 @@
 # sEMG_GestureRecognition
 
-Electromyographic gesture recognition is the problem of classifying sequences of EMG data recorded by specialized devices into known well-defined gestures.
-In this project, this is achieved by recording EMG sequences using the Myo armband, which is then classified by a CNN into the different poses(Class) performed.
+Electromyographic gesture recognition is the problem of classifying sequences of EMG data
+recorded by specialized devices into known well-defined gestures. In this project, this 
+is achieved by recording EMG sequences using the Myo armband, which is then classified by 
+a CNN into the different Poses performed.
+
 The following are the poses performed by the subjects:
 Class - Pose:
 0 - unmarked data,
